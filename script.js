@@ -1,38 +1,38 @@
 const questions = [
   {
-    question: "Who is the best fortnite player in Lynbrook?",
+    question: "How long did dinosaurs live on the earth?",
     answers: [
-      { text: "Tommyboi4", correct: false },
-      { text: "lemmmestop", correct: true },
-      { text: "JajajaTacos", correct: false },
-      { text: "Flac0Guap0", correct: false },
+      { text: "200+ million years", correct: false },
+      { text: "150-200 million years", correct: true },
+      { text: "100-150 million years", correct: false },
+      { text: "50-100 million years", correct: false },
     ],
   },
   {
-    question: "Who is the best looking person in Lynbrook?",
+    question: "Which flies a green, white, and orange (in that order) tricolor flag?",
     answers: [
-      { text: "Tommyboi4", correct: false },
-      { text: "lemmmestop", correct: false },
-      { text: "JajajaTacos", correct: false },
-      { text: "Flac0Guap0", correct: true },
+      { text: "France", correct: false },
+      { text: "Italy", correct: false },
+      { text: "Ivory Coast", correct: false },
+      { text: "Ireland", correct: true },
     ],
   },
   {
-    question: "Who would probably give their phone number to anyone?",
+    question: "Which app has the most total users?",
     answers: [
-      { text: "mymutha", correct: false },
-      { text: "myfatha", correct: false },
-      { text: "mysista", correct: true },
-      { text: "yabrotha", correct: false },
+      { text: "Tiktok", correct: false },
+      { text: "Snapchat", correct: false },
+      { text: "Instagram", correct: true },
+      { text: "X", correct: false },
     ],
   },
   {
-    question: "What is the tastiest candy out of the following options?",
+    question: "The fear of insects is known as what?",
     answers: [
-      { text: "Skittles", correct: false },
-      { text: "Sour Straws", correct: false },
-      { text: "Gummy Clusters", correct: true },
-      { text: "Mike & Ikes", correct: false },
+      { text: "Arachnophobia", correct: false },
+      { text: "Ailurophobia", correct: false },
+      { text: "Entomophobia", correct: true },
+      { text: "Agoraphobia", correct: false },
     ],
   },
   {
